@@ -1,26 +1,7 @@
-  215  less README.md 
-  216  nano kompresors.mdl
-  217  cd C
-  218  ls
-  219  cd ..
-  220  ls
-  221  cd SS-2014/
-  222  ls
-  223  cd LD1
-  224  ls
-  225  nano SSLD1_script.m -r
-  226  nano SSLD1_script.m
-  227  matlab
-  228  ls
-  229  cd downloads
-  230  ls
-  231  cd jk
-  232  ls
-  233  cd
-  234  ls
-  235  cd Desktop/
-  236  ls
-  237  cd
+
+
+	
+	
   238  crome
   239  firefox
   240  ls
@@ -998,3 +979,22 @@
  1212  cd darbi
  1213  history
  1214  history > History.txt
+ 1215  ls -l
+ 1216  cat history.txt
+ 1217  cat HISTORY.TXT
+ 1218  cat History.txt
+ 1219  GIT INIT
+ 1220  git init
+ 1221  git add .
+ 1222  git cofig --global user.email artamoons@gmail.com
+ 1223  git config --global user.email artamoons@gmail.com
+ 1224  git commit -m "20170914_09_30"
+ 1225  git remote add orgin https://github.com/ZIRKOFF/DMI.git
+ 1226  git push -u orgin master
+ 1227  mv aaa
+ 1228  mv aaa xxx
+ 1229  q
+ 1230  cat rtu
+ 1231  pwd
+ 1232  history
+ 1233  history > History.txt
