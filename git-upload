@@ -1,0 +1,5 @@
+#!/bin/bash
+git config --global user.email artamoons@gmail.com
+git add .
+git commit -m "20170928_09_50"
+git push origin master
