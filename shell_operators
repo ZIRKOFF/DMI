@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#1.piemers (merkis 2+2=4-  ?)
+
+val=2+2
+echo $val
+

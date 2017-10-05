@@ -1,25 +1,31 @@
 #!/bin/bash
 
-#4. piemers
-echo "atbilde uz jautajumu- kas sobrid tiek pildits? " $0
+#6.piemers
+echo "Vards Uzvards: $0"
+
+#5.piemērs
+echo "Atbilde uz jautajumu - kas shobrid tiek pildīts?" $0
 #echo $n
-echo "Skriptam nodoto argumentu skaits:"$#
+echo "Skriptam nodoto argumentu skaits: " $#
 
 
-#3. piemers
-NAME="Vards Uzvards"
+#4.piemērs
+#echo $0
+
+#3.piemērs
+#NAME="Vārds Uzvārds"
 #echo $NAME
 #unset NAME
 #echo $NAME
 
-#2. piemers
-NAME="Vards Uzvards"
+#2.piemērs
+#NAME="Vārds Uzvārds"
 #readonly NAME
 #echo $NAME
-NAME="Uzvards Vards"
+#NAME="Uzvāŗds Vards"
 #echo $NAME
 
-#1. piemers
-NAME="Vards Uzvards"
+#1.piemērs
+#NAME="Vārds Uzvārds"
 #echo $NAME
 
