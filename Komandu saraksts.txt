@@ -1,0 +1,27 @@
+cat a.txt #parada kas atrodas faila
+cd Deskstop/ # iziet uz dekstop darba vietu
+cd .. # iziet no kurienes gaji
+chmod +x # dod izpildisanas atlauju
+chmod 744 # dod izpildisanas atlauju
+cp a.txt tests # kopet konkretu failu uz kadu vietu
+echo # izvada texta rindu
+git add . # pievieno notikusas izmainas githuba direktorija
+git clone # klonee visus darbus u.c. no github uz datoru
+git-download # sataisits scripts , kas padara vieglaku klonesanu
+git config --global user.email # githuba ielogosanas,pieprasa epastu un paroli
+git commit -m # commita veidosana
+git push origin master # augsupielade github
+git-upload # skripts , kas atvieglo augsupieladi githuba
+history # komandu vesture
+history > history.txt # komandu vestures parskata saglabasana txt faila
+ls # mapes saturs
+ls -l #mapes saturs + atlauju parskats 
+mkdir tests #izveidot direktoriju
+mv a.txt tests # parvietot failu 
+nano a.txt # failu modificesana
+rm a.txt # izdzes failu
+rmdir test # izdzes direktoriju
+uname -r # funkcija kas identifice sistemu 
+whereis # komanda kas parada kur atrodas konkrets fails
+whoami # parada kas "TU" esi
+./basic_operators.sh # pieskirta atlauja skriptam
